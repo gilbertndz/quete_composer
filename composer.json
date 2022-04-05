@@ -1,0 +1,16 @@
+{
+    "name": "gilbe/quete_composer",
+    "description": "Projet quete composer",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gilbertndz",
+            "email": "gilbert.ndayizeye@hotmail.fr"
+        }
+    ],
+    "require": {}
+}
