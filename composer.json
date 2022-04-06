@@ -12,5 +12,8 @@
             "email": "gilbert.ndayizeye@hotmail.fr"
         }
     ],
-    "require": {}
+    "require": {
+        "swiftmailer/swiftmailer": "^6.3",
+        "gipetto/cowsay": "^1.1"
+    }
 }
